@@ -1,0 +1,7 @@
+Step 1: Prepare your malware signatures file (malware_signatures.txt) with known MD5 hashes.
+
+Step 2: Run the Python script in your terminal or command prompt.
+
+Step 3: When prompted, enter the path of the directory you want to scan.
+
+Step 4: Review the output for any detected infected files.
